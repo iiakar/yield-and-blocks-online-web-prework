@@ -1,4 +1,6 @@
 def hello_t
+names = { ["Tim", "Tom", "Jim"] }
+
 
 end
 
